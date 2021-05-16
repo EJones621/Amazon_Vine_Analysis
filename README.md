@@ -4,13 +4,13 @@
 The purpose of this project is to see if there's a difference in the percentage of 5-star reviews for video games using Google Colab Notebook, pyspark, and reviews from Amazon S3 databases.
 
 ## Results
-**How many Vine and Non-Vine reviews were 5 stars?**
+1. **How many Vine and Non-Vine reviews were 5 stars?**
 There were a total of 20,605 Non-Vine 5-star reviews. There were a total of 65 Vine 5-star reviews.
 
-**How many total Vine and Non-Vine reviews were there in total?
+2. **How many total Vine and Non-Vine reviews were there in total?**
 There were a total of 37,790 Non-Vine reviews. There were a total of 170 Vine reviews.
 
-**What percentage of the reviews for both Vine and Non-Vine had 5-star reviews?**
+3. **What percentage of the reviews for both Vine and Non-Vine had 5-star reviews?**
 Non-Vine reviews had (20,605/37,790)*100 = 54.53% 5-star reviews. Vine reviews had (65/170)*100 = 38.23% 5-star reviews.
 
 ## Summary
